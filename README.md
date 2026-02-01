@@ -1,5 +1,3 @@
-# Python-Internship-Tasks
-
 #  Python Development Internship - QSkill
 **Internship Period:** Jan 10, 2026 - Feb 10, 2026  
 **Status:** Completed (3/3 Tasks)

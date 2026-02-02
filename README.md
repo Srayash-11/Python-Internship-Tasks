@@ -9,7 +9,7 @@ This repository contains my submissions for the Python Development Internship.
 
 ### 2. Indian Household Data Analysis (Pandas)
 
-### 3. Bengaluru House Price Prediction (Linear Regression)
+### 3. House Price Prediction (Linear Regression)
 
 ##  Tech Stack
 * **Language:** Python
